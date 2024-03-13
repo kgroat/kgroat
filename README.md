@@ -1,8 +1,5 @@
 <h1 align="center">Welcome, I'm Kevin</h1>
-<h3 style="display: flex; justify-content: center">
-  <div align="center" style="max-width: 500px">I'm a full-stack engineer with a love for all things JavaScript / TypeScript and a passion for functional programming.
-  </div>
-</h3><br />
+<h3 align="center">I'm a full-stack engineer with a love for all things JavaScript / TypeScript and a passion for functional programming.</h3><br />
 
 </p>
 <p align="center">
