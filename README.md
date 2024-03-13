@@ -1,6 +1,8 @@
 <h1 align="center">Welcome, I'm Kevin</h1>
 
-<p align="center">I'm a full-stack engineer with a love for all things JavaScript / TypeScript and a passion for functional programming. I believe in empowering those around me and the power of psychological safety. I strive to create readable, maintainable code and to help others do the same.</p>
+<h4 align="justify">
+  I'm a full-stack engineer with a love for all things JavaScript / TypeScript and a passion for functional programming. I believe in empowering those around me and the power of psychological safety. I strive to create readable, maintainable code and to help others do the same.
+</h4>
 
 <p align="center">
   <a href="https://skillicons.dev">
