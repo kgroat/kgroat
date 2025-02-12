@@ -5,7 +5,7 @@
 </h4>
 
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=ts,react,nodejs,npm,pnpm,jest,cypress,gitlab,docker,kubernetes,graphql,vite,next,gleam,nix&theme=dark" alt="my skills" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=ts,react,reactquery,nodejs,npm,pnpm,vitest,cypress,jest,gitlab,github,githubactions,postgresql,prisma,trpc,vite,next,docker,kubernetes,gleam,nixos,flyio,reactnative,graphql,vscode,nginx,godot,notion,figma,storybook&theme=dark" alt="my skills" />
 </p>
 
 <p align="center">
